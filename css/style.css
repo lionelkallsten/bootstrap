@@ -1,0 +1,54 @@
+.slider{
+    width: 70%;
+    margin-top: 30px;
+}
+
+.navbar-brand img{
+    width: 8em;
+}
+
+.navbar{
+    background-color: #FFEEEE88;
+}
+
+footer{
+    background-color: #EBD8C366;
+}
+
+footer a{
+    color: #000;
+    text-decoration: none;
+}
+
+.footer div{
+    padding-top:20px;
+}
+
+.list-group-item{
+    background-color: #EBD8C300;
+    border-color: #0001;
+}
+
+.fiscal img{
+    width: 5em;
+}
+
+.main{
+    background-color: #FFF6EA77;
+    padding: 30px;
+}
+
+.main .col{
+    margin-top: 20px;
+}
+
+.imgClientes img{
+    padding-top: 20px;
+    width: 100%;
+}
+
+@media screen and (max-width:990px){
+    .slider{
+        width:100%;
+    }
+}
