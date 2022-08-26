@@ -47,6 +47,13 @@ footer a{
     width: 100%;
 }
 
+.card-body span{
+    color: red;
+    font-weight: 600;
+    font-size: x-large;
+
+}
+
 @media screen and (max-width:990px){
     .slider{
         width:100%;
